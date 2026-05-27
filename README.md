@@ -34,5 +34,10 @@ El objetivo de estas prácticas fue fortalecer el aprendizaje y la aplicación d
 - GitHub
 
 ## Lisa de Proyectos Incluidos 
-<img width="1204" height="547" alt="Captura de pantalla 2026-05-26 215540" src="https://github.com/user-attachments/assets/ede3556c-c17a-4889-a01f-67990a915ba3" />
+- Proyecto_01_Examen contra reloj (Corte 1 U2)
+- Proyecto_02_Actividad de evaluación C2-Consumo Energético servidores U3-Métodos
+- Proyecto_03_Actividad de evaluación c3-Usuarios
+- Proyectos_04_Actividad Integradora-Arreglos unidimensionales
+- Proyecto_05_Actividad Integradora-Gestión de Bitácoras en Archivos de Texto
+- README
 
