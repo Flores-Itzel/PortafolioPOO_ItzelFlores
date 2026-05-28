@@ -1,29 +1,24 @@
-# Portafolio de proyectos-Programación Orientada a Objetos
+# Actividad de Evaluación C2
+## Consumo energético servidores
 
-- **Nombre:** Itzel Karolina Flores Nava
-- **Matería:** Programación Orientada a Objetos
-- **Docente:** Jesus Salas Marin 
-- **Semestre:** 2
+## Objetivo 
+Desarrollar una herramienta web capaz de calcular el consumo energètico (en joules y convertido a kWh) de un centro de datos mediante mètodos de integraciòn numérica, permitiendo evaluar el rendimiento bajo diferetes perfiles de arga.
 
-## Descripción General
+## Problemas que resuelve 
+El proyecto resuelve la dificultad de estimar el consumo energético acumulado de un servidor a lo largo de un intervalo de tiempo específico, cuando la tasa de potencia no es constante sino que varía según el modo de operación (IDLE, AVERAGE, STRESS).
 
-Este portafolio contiene los códigos y prácticas realizadas durante el semestre en la materia de Programación Orientada a Objetos.  
+## Tecnologías utilizadas
+- PHP
+- HTML
+- CSS
+- XAMPP
+- POO
 
-En los proyectos se aplicaron diferentes temas vistos en clase utilizando PHP como lenguaje principal y XAMPP como entorno de desarrollo. También se trabajó con HTML, CSS, Python y GitHub para la estructura y diseño de las páginas.  
+## Conceptos aplicados 
+- Integración numérico: Aplicación de la **Regla del Trapecio** para calcular el área bajo la curva de la función de potencia P(t), estimando así la energía total consumida.
+- POO en PHP: Uso de clases (IntegradorNumerico, FuncionesEnergía), namespaces (App\Calculo), manejo de excepciones (Exception), y métodos estáticos.
+- Formularios y superglobales: procesamiento de datos de entrada mediante $_POST.
 
-Entre los temas desarrollados se encuentran:
-
-- Clases y objetos en PHP
-- Atributos y métodos
-- Constructores
-- Clases predefinidas
-- Modificadores de acceso: públicas, privadas y protegidas
-- Herencia y polimorfismo
-- Formas geométricas en POO
-- Programación de usuarios de correo en PHP
-- Arreglos indexados y asociativos
-
-El objetivo de estas prácticas fue fortalecer el aprendizaje y la aplicación de los conceptos fundamentales de la Programación Orientada a Objetos y la resolución de problemas mediante el uso de PHP.
-
-## Lisa de Proyectos Incluidos 
-
+## Capturas
+- FuncionesEnergia.php
+- 
