@@ -21,4 +21,6 @@ El proyecto resuelve la dificultad de estimar el consumo energético acumulado d
 
 ## Capturas
 - FuncionesEnergia.php
-- 
+<img width="847" height="831" alt="Captura de pantalla 2026-05-27 155535" src="https://github.com/user-attachments/assets/1aac9bfc-8474-4d2f-8c77-e038ab17fe94" />
+
+- IntegradorNumerico.php
