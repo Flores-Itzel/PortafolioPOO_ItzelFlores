@@ -58,3 +58,20 @@ El proyecto resuelve la dificultad de estimar el consumo energético acumulado d
 </p>
 
 ## Instrucciones de ejecución
+1. Copiar carpeta en htdocts
+2. Iniciar Apache en XAMPP
+3. Abir localhost/127.0.0.1
+   1. Entrar al navegador
+   2. Escribir 127.0.0.1
+   3. Buscar la carpeta del proyecto
+   4. Ejecutar index.php
+4. Ingresar el tiempo inicial, final, número de subintervalos y seleccionar el modo de consumo para ver resultados
+5. Verificar resultados
+
+## Reflexión Personal
+### ¿Qué aprendí?
+Aplicar métodos matemáticos de integración numéricaa mediante código PHP para resolver problemas, así como estructurar mejor el código mediante el uso de namespaces y clases separadas
+### ¿Qué fue díficil?
+Implementar correctamente la lógica de integración, asegurando que la precisión (n) fuera escalable y que la conversión de unidades fuera precisa.
+### ¿Qué mejoraría?
+Visualizar mejor el resultado
