@@ -1,29 +1,38 @@
-# Portafolio de proyectos-Programación Orientada a Objetos
+# Actividad Integradora 
+## Gestión de Bitácoras en Archivos de Texto
 
-- **Nombre:** Itzel Karolina Flores Nava
-- **Matería:** Programación Orientada a Objetos
-- **Docente:** Jesus Salas Marin 
-- **Semestre:** 2
+## Objetivo del proyecto
+Crear una herramienta web funcional para registrar y visualizar actividades de manera persistente en un archivo de texto, utilizando PHP para el manejo del lado del servidor.
 
-## Descripción General
+## Prblema que resuelve
+LLevar un registro manual en papel de las actividades diarias de un equipo; organizadción de actividades, evitando la pérdida de información al guardar los datos en un archivo externo, en lugar de depender únicamente de la memoria de ejecución.
 
-Este portafolio contiene los códigos y prácticas realizadas durante el semestre en la materia de Programación Orientada a Objetos.  
+## Tecnologías utilizadas
+- PHP
+- HTML
+- txt
 
-En los proyectos se aplicaron diferentes temas vistos en clase utilizando PHP como lenguaje principal y XAMPP como entorno de desarrollo. También se trabajó con HTML, CSS, Python y GitHub para la estructura y diseño de las páginas.  
+## Conceptos aplicados
+- Manejo de Formularios: Uso de $_POST para capturar la información ingresada por el usuario.
+- Arreglos (Arrays)
+- Arreglos Indexados vs. Asociativos
+- Iteración con foreach
 
-Entre los temas desarrollados se encuentran:
+## Instrucciones de uso 
+- Asegúrate de tener instalado un servidor local como XAMPP.
+ -Copia la carpeta de tu proyecto en el directorio htdocs de XAMPP.
+- Inicia los servicios de Apache en el Panel de Control de XAMPP.
+- Abre tu navegador y accede a 127.0.0.1
+- Ingresa a la carpeta Bitacora y abre el index.php
 
-- Clases y objetos en PHP
-- Atributos y métodos
-- Constructores
-- Clases predefinidas
-- Modificadores de acceso: públicas, privadas y protegidas
-- Herencia y polimorfismo
-- Formas geométricas en POO
-- Programación de usuarios de correo en PHP
-- Arreglos indexados y asociativos
+## Reflexión personal
 
-El objetivo de estas prácticas fue fortalecer el aprendizaje y la aplicación de los conceptos fundamentales de la Programación Orientada a Objetos y la resolución de problemas mediante el uso de PHP.
+### ¿Qué aprendí?
+Aprendí a conectar una interfaz HTML con la lógica de PHP para persistir datos sencillos sin necesidad de una base de datos compleja.
 
-## Lisa de Proyectos Incluidos 
+### ¿Qué fue difícil?
+Me confunde un poco cómo los arreglos guardan los datos, aunque estoy empezando a ver que funcionan como listas organizadas.
+
+### ¿Qué mejoraría?
+Me gustaría intentar organizar mejor la información, tal vez usando arreglos asociativos en lugar de solo texto, para poder clasificar mis tareas por "nombre" o "fecha"
 
