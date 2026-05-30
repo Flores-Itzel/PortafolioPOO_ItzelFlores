@@ -5,7 +5,7 @@
 Crear una herramienta web funcional para registrar y visualizar actividades de manera persistente en un archivo de texto, utilizando PHP para el manejo del lado del servidor.
 
 ## Problema que resuelve
-LLevar un registro manual en papel de las actividades diarias de un equipo; organizadción de actividades, evitando la pérdida de información al guardar los datos en un archivo externo, en lugar de depender únicamente de la memoria de ejecución.
+Llevar un registro manual en papel de las actividades diarias de un equipo; organización de actividades, evitando la pérdida de información al guardar los datos en un archivo externo, en lugar de depender únicamente de la memoria de ejecución.
 
 ## Tecnologías utilizadas
 - PHP
