@@ -14,7 +14,7 @@ Resuelve la necesidad de automatizar el cálculo de métricas financieras básic
 
 ## Conceptos aplicados
 - Expresiones Aritméticas
-- Arreglos en java
+- Arreglos en PHP
 - Constructor array()
 - Arreglos asociativos y indexados
 - La funcion print_r()
